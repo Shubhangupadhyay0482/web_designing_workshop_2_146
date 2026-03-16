@@ -1,4 +1,4 @@
 console.log("Hello World!");
 function showAlert() {
-    alert("Hello, World!");
+    alert("Hello, CSE 22");
 }
