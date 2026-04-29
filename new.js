@@ -1,0 +1,17 @@
+let newarray=[1,2,3,4,5];
+let squareArray=newarray.map((num)=>num*5);
+console.log(squareArray);
+let evennumbers=[1,2,3,4,5,];
+let filteredevennumber=evennumbers.filter((num)=>num%2===0);
+console.log(filteredevennumber);
+let sum=[1,2,3,4,5];
+sum.reduce(accumulator,currentValue)=> accumulator+currentValue,0);
+console.log(sum);
+let marks =students.map((student)=>student.marks);
+console.log(marks);
+let names=students.map((student)=>student.name);
+console.log(names);
+let topstudent=students.filter((student)=>student.marks>80);
+console.log(topstudent);
+let totalmarks=students.reduce((acc,student)=>acc+student.marks,0);
+console.log(totalmarks);
