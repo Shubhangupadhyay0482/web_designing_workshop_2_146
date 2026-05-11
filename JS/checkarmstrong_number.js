@@ -9,10 +9,10 @@ function solve(...args){
 }
 let result=null;
 if (sum==num){
-    result = num+ "Is an armstrong number";
+    result = num+ " Is an armstrong number";
 }else{
-    result = num+ "Is not an armstrong number";
+    result = num+ " Is not an armstrong number";
 }
 return result;
 }
-console.log(solve(53;))
+console.log(solve(153));
