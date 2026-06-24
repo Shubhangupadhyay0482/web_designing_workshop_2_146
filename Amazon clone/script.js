@@ -1,4 +1,4 @@
-// ===================== DATA =====================
+
 const allProducts = [
   { id:1,  name:"Samsung Galaxy S24 Ultra 5G",      price:134999, old:159999, icon:"📱", stars:4.5, reviews:12847, badge:"Best Seller", prime:true  },
   { id:2,  name:"Apple MacBook Air M3 13-inch",     price:114900, old:134900, icon:"💻", stars:4.8, reviews:5432,  badge:"-15%",        prime:true  },
